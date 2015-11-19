@@ -7,3 +7,5 @@ Nodejs is a single-threaded platform. If you want to take heavy operations and u
 `$ npm install express cluster`
 
 `$ node cluster.js`
+
+Open http://localhost:1337 with your favorit browser.
